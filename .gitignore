@@ -1,0 +1,12 @@
+# Datasets
+CNN/data/
+
+# Trained model checkpoints
+*.pth
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
